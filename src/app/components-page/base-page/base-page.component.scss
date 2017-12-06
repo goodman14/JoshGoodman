@@ -1,0 +1,20 @@
+.header{
+    padding: 0.55rem 2rem;
+
+    .list {
+    margin: 0.5rem 1rem;
+
+        a {
+            color: #fff;
+
+            &:hover {
+                border: 0;
+            }
+        }
+        
+    }
+
+    .logo-underscore {
+        color: #f9df4f
+    }
+}

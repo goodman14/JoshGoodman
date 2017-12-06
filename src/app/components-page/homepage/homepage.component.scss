@@ -1,0 +1,36 @@
+.main {
+    height: 90vh;
+
+    section {
+        width: 60vw;
+        position: relative;
+
+        h1.fat {
+            font-size: 6.5rem;
+            color: #f9df4f;
+            position: relative;
+        }
+
+        .content-block {
+
+            margin-left: 40px;
+
+            p {
+                width: 65%;
+            }
+
+            button {
+                margin-top: 20px;
+            }
+        }
+    }
+}
+
+img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: 600px;
+    margin-right: 50px;
+    max-height: 90vh;
+}
